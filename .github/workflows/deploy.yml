@@ -1,4 +1,4 @@
-name: Build Push Deploy
+name: Build Push deploy on ec2
 
 on:
   push:
